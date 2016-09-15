@@ -1,0 +1,6 @@
+plugin:
+    name: 'jumplink.downloadbundle::lang.plugin.name'
+    description: 'jumplink.downloadbundle::lang.plugin.description'
+    author: 'Marc Wensauer (JumpLink Network)'
+    icon: oc-icon-download
+    homepage: ''
